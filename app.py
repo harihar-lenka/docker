@@ -1,0 +1,10 @@
+print("Hello from Docker!")
+print("My name is Harihar")
+
+print("I am a software engineer")
+print("I am a DevOps engineer")
+print("I am a Python developer")
+print("I am a full stack developer")
+print("I am a data engineer")
+print("I am a data scientist")
+print("I am a machine learning engineer")
